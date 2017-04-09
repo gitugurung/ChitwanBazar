@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:minHeight="70dp"
+    android:layout_width="match_parent"
+    app:cardBackgroundColor="#ffffe0"
+    android:elevation="2dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="25dp"
+        android:textColor="#2036b2"
+        android:text="name"
+        android:id="@+id/tlist"/>
+
+</android.support.v7.widget.CardView>
